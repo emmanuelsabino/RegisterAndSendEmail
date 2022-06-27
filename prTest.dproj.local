@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/26 18:43:02.000.778,=C:\Users\Samsung\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/26 19:09:52.000.300,C:\Users\Samsung\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Info\Teste\ufrmTest.pas</Transaction>
+    <Transaction>2022/06/26 19:09:52.000.300,C:\Users\Samsung\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Info\Teste\ufrmTest.dfm</Transaction>
+    <Transaction>2022/06/26 19:09:59.000.268,C:\Users\Samsung\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Info\Teste\prTest.dproj</Transaction>
+    <Transaction>2022/06/26 19:14:52.000.581,=C:\Info\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/26 19:16:01.000.142,C:\Info\Teste\Unit1.pas=C:\Info\Teste\uSearchPostalCode.pas</Transaction>
+    <Transaction>2022/06/26 19:17:55.000.507,C:\Info\Teste\uSearchPostalCode.pas=</Transaction>
+    <Transaction>2022/06/26 19:18:41.000.411,=C:\Info\Teste\uServiceSearchPostalCode.pas</Transaction>
+    <Transaction>2022/06/27 00:08:38.000.970,=C:\Info\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 00:08:56.000.225,C:\Info\Teste\Unit1.pas=C:\Info\Teste\uServiceSendEmail.pas</Transaction>
+    <Transaction>2022/06/27 00:09:00.000.897,=C:\Info\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 00:46:30.000.081,=C:\Info\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 00:46:36.000.789,C:\Info\Teste\Unit1.pas=C:\Info\Teste\uCustomerDTO.pas</Transaction>
+    <Transaction>2022/06/27 00:48:40.000.457,=C:\Info\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 00:49:52.000.319,C:\Info\Teste\Unit1.pas=C:\Info\Teste\uLocationDTO.pas</Transaction>
+    <Transaction>2022/06/27 01:43:12.000.408,=C:\Info\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 01:43:21.000.794,C:\Info\Teste\Unit1.pas=C:\Info\Teste\uRegisterService.pas</Transaction>
+  </Transactions>
+</BorlandProject>
